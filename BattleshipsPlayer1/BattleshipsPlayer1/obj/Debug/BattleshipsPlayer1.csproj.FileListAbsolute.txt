@@ -1,0 +1,9 @@
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\bin\Debug\BattleshipsPlayer1.exe.config
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\bin\Debug\BattleshipsPlayer1.exe
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\bin\Debug\BattleshipsPlayer1.pdb
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\obj\Debug\BattleshipsPlayer1.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\obj\Debug\BattleshipsPlayer1.Form1.resources
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\obj\Debug\BattleshipsPlayer1.Properties.Resources.resources
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\obj\Debug\BattleshipsPlayer1.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\obj\Debug\BattleshipsPlayer1.exe
+C:\Users\Windows\source\repos\BattleshipsPlayer1\BattleshipsPlayer1\obj\Debug\BattleshipsPlayer1.pdb
