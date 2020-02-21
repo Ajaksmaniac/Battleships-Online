@@ -1,6 +1,6 @@
 # Battleships-Online
 Is a 2 player online game where players need to destroy oponents ships. This application is based on server-client connection, where 1 player hosts the game and the other connects to the host. 
-App is still in the developement.
+App is still in the developement and it doenst work.
 
 To be aded:
 
